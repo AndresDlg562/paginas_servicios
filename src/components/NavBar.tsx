@@ -18,10 +18,10 @@ export default function NavBar() {
             <a href="/" className="hover:underline">Home</a>
             </li>
             <li>
-            <a href="/about" className="hover:underline">Pag1</a>
+            <a href="/page1" className="hover:underline">Pag1</a>
             </li>
             <li>
-            <a href="/about" className="hover:underline">Pag2</a>
+            <a href="/page2" className="hover:underline">Pag2</a>
             </li>
         </ul>
         </nav>
